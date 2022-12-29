@@ -75,7 +75,7 @@
 //     console.log('hello');
 //    // get the data from api end point 
 //    // const response = await fetch('apiendpoint', schema)
-//    const response = await fetch('http://localhost:5000/',{
+//    const response = await fetch('https://chapgpt-1.onrender.com/',{
 //     method: 'POST',
 //     headers: {
 //         'Content-Type': 'application/json',
